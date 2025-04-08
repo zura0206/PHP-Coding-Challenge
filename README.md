@@ -6,7 +6,7 @@ This PHP command-line application processes the `sample-log.txt` file and genera
 
 ## Project Structure
 The project is structured as follows:
-```
+
 tests/
   FunctionsTest.php            # PHPUnit tests for the functions in 'functions.php'
 vendor/                         # Vendor directory containing dependencies installed by Composer
